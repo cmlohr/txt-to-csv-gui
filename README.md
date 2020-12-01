@@ -1,1 +1,2 @@
 txt-to-csv-gui
+Simple txt file to csv converter, enter your paths and file names.  Path's that aren't relative need '/' btw the file names, but otherwise don't requre them on the front or back end.  Also formated for linux paths, so YMMV.
